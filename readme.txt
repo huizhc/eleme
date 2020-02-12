@@ -1,3 +1,0 @@
-高仿饿了么外卖app
-根目录下运行node prod.server.js进行测试
-在浏览器中输入localhost:8080查看效果
