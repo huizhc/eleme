@@ -1,4 +1,4 @@
-# wene
+# vue.js高仿饿了么app
 
 ## Project setup
 ```
